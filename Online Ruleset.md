@@ -100,7 +100,7 @@ Open qualifiers:
 
 11th of October: First Qualifier   
 12th of October: Second Qualifier:  
-13th of October: Third Qualifier  
+18th of October: Third Qualifier  
 19th of October: Fourth Qualifier  
 *\* Dates of the Open Qualifiers might change in good faith in accordance with the Counter-Strike calendar or other unforeseen circumstances.*
 
